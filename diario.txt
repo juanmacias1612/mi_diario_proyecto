@@ -1,2 +1,3 @@
 dia 2 :aprendi a usar add y comit
 dia 3 : estoy entiendo como funciona las ramas 
+dia 4 : estoy enhaciendo git push para subie git ub
